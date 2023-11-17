@@ -1,2 +1,8 @@
-# encofo.github.io
-encofo.github.io/encofo
+# Data Scientist
+
+
+### Experience
+- Corporation X
+
+### Projects
+- Project X
